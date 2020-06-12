@@ -1,0 +1,322 @@
+
+
+/*// Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) {
+
+
+}
+
+
+
+
+/*// Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+
+	.search_icon {
+	right: 120px;
+}
+	.service_text {
+	text-align: center;
+}
+	.service_text h4 {
+	font-size: 16px;
+}
+	.single_work .work_overlay .work_icon {
+	padding-top: 25px;
+	padding-left: 25%;
+}
+	.single_work .work_overlay .work_text {
+	left: 10%;
+}
+	.single_work .work_overlay .work_text h6 {
+	font-size: 26px;
+}
+	.pric_num {
+	left: 20%;
+}
+	.pricing_btn {
+	margin-left: 17%;
+}
+	.finalcial_social {
+	padding-top: 10%;
+}
+	
+	
+	
+	
+	
+	
+	
+}
+
+
+
+
+
+/*// Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) { 
+ 
+ 
+ /* menubar*/
+.navbar-toggler span i {
+	/* background: #fff !important; */
+	color: #fff !important;
+	padding: 10px 14px;
+	font-size: 26px;
+	background-color: transparent;
+}
+ .navbar-toggler {
+	margin-left: 70%;
+	margin-bottom: -20px;
+}
+ .main_menu .navbar-nav .nav-item .nav-link {	
+	text-align: center;
+}
+ .main_menu .navbar-nav .nav-item .nav-link::before {
+	left: 52%;
+}
+.navbar-light .navbar-toggler {
+	color: #fff;
+	border: 0;
+}
+ 
+/* menubar*/
+ 
+ 
+	.slider_content h1 {
+	font-size: 50px;
+}
+  .work_gal button:nth-of-type(5){
+	margin-top: 20px;
+}
+ 
+	.single_work .work_overlay .work_text {
+	left: 10%;
+}
+	.single_work .work_overlay .work_text h6 {
+	font-size: 24px;
+}
+	.single_work .work_overlay .work_icon {
+	padding-left: 20%;
+}
+	.pric_num {
+	left: 30%;
+}
+	.pricing_btn {
+	margin-left: 30%;
+}
+ .financial_btn {
+	margin-top: 30px;
+}
+ 
+ .linkssss {
+	padding-top: 60px;
+}
+ .flikssss {
+	padding-top: 60px;
+}
+ 
+ 
+ 
+}
+
+
+
+
+
+/*// Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+	
+ /* menubar*/
+.navbar-toggler span i {
+	/* background: #fff !important; */
+	color: #fff !important;
+	padding: 10px 14px;
+	font-size: 26px;
+	background-color: transparent;
+}
+ .navbar-toggler {
+	margin-left: 70%;
+	margin-bottom: -20px;
+}
+ .main_menu .navbar-nav .nav-item .nav-link {	
+	text-align: center;
+}
+ .main_menu .navbar-nav .nav-item .nav-link::before {
+	left: 52%;
+}
+.navbar-light .navbar-toggler {
+	color: #fff;
+	border: 0;
+}
+/* menubar*/
+ 
+ .header_content {
+	display: none;
+}
+ 
+ 
+ 
+ 
+ 
+ .slider_content h1 {
+	font-size: 40px;
+}
+ .work_gal button:nth-of-type(4){
+	margin-top: 20px;
+}
+  .work_gal button:nth-of-type(5){
+	margin-top: 20px;
+}
+ .single_work .work_overlay .work_text {
+	left: 8%;
+	top: 40%;
+}
+ 
+ .single_work .work_overlay .work_text h6 {
+	color: #fff;
+	font-size: 18px;
+	text-transform: uppercase;
+}
+ .single_work .work_overlay .work_icon {
+	padding-left: 25%;
+}
+ .linkssss {
+	padding-top: 40px;
+}
+ .flikssss {
+	padding-top: 40px;
+}
+ .blogggg {
+	padding-top: 40px;
+}
+ 
+ 
+ 
+	
+	
+}
+
+
+
+
+
+/*// Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+
+ 
+ /* menubar*/
+.navbar-toggler span i {
+	/* background: #fff !important; */
+	color: #fff !important;
+	padding: 10px 14px;
+	font-size: 26px;
+	background-color: transparent;
+}
+.navbar-toggler {
+	margin-left: 55%;
+	margin-bottom: -22px;
+}
+ .main_menu .navbar-nav .nav-item .nav-link {	
+	text-align: center;
+}
+ .main_menu .navbar-nav .nav-item .nav-link::before {
+	left: 52%;
+}
+.navbar-light .navbar-toggler {
+	color: #fff;
+	border: 0;
+}
+/* menubar*/
+ 
+ .logo_content {
+	display: none;
+}
+ 
+ 
+ 
+ 
+ .slider_content {
+	padding: 90px 0;
+}
+ .slider_content h1 {
+	font-size: 28px;
+}
+ .service_icon {
+	padding-left: 40%;
+}
+ .service_text {
+	text-align: center;
+}
+ .service_btn {
+	margin-left: 22%;
+}
+  .work_gal button:nth-of-type(3){
+	margin-top: 20px;
+}
+  .work_gal button:nth-of-type(5){
+	margin-top: 20px;
+}
+ .single_work .work_overlay .work_text h6 {
+	font-size: 24px;
+}
+ .single_work .work_overlay .work_icon {
+	padding-top: 2%;
+	padding-left: 28%;
+}
+ .count h2 {
+	padding-bottom: 20px;
+}
+ .section_title h2 {
+	font-size: 20px;
+}
+ .client_review .section_title h2 {
+	font-size: 20px;
+}
+ .pricing_btn {
+	margin-left: 26%;
+}
+ .pric_num {
+	left: 28%;
+}
+ 
+  .linkssss {
+	padding-top: 40px;
+}
+ .flikssss {
+	padding-top: 40px;
+}
+ .blogggg {
+	padding-top: 40px;
+}
+ .blogs_text {
+	padding-top: 20px;
+}
+ 
+ 
+ 
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
